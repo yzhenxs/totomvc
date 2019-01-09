@@ -1,0 +1,48 @@
+/* 头部样式 */
+.header{
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+}
+/* 底部样式 */
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: blueviolet;
+}
+/* 第一个路由 */
+.one{
+    width: 100%;
+    height: 200px;
+    margin: 10px 0;
+    background-color: red;
+}
+/* 第二个路由 */
+.two{
+    width: 100%;
+    height: 200px;
+    margin: 10px 0;
+    background-color: green;
+}
+/* 第三个路由 */
+.three{
+    width: 100%;
+    height: 200px;
+    margin: 10px 0;
+    background-color: black;
+}
+/* one1组件 */
+.one1{
+    width: 100%;
+    height: 200px;
+    margin: 10px 0;
+    background-color:gainsboro;
+}
+/* sun组件 */
+.sun{
+    width: 100%;
+    height: 100px;
+    margin: 10px 0;
+    background-color:hotpink;
+}
+/* tab组件 */
